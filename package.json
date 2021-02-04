@@ -1,0 +1,16 @@
+{
+  "name": "rare-pepe-api",
+  "version": "1.0.0",
+  "keywords": [
+    "pepe",
+    "pepe the frog",
+    "meme",
+    "apu",
+    "pepecoin"
+  ],
+  "description": "Rare Pepe API. Fetch a random rare pepe image.",
+  "main": "index.js",
+  "author": "Pepecoin Contributor",
+  "license": "MIT",
+  "dependencies": {}
+}
